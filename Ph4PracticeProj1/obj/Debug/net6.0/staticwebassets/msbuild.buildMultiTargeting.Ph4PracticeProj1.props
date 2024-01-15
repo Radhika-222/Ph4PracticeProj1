@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ph4PracticeProj1.props" />
+</Project>
